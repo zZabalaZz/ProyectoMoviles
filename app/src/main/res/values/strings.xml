@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">TiendaVirtual</string>
+    <string name="app_name">SnapFind</string>
     <string name="name">Nombre</string>
     <string name="msg_name">Digite el nombre</string>
     <string name="description">Descripción</string>

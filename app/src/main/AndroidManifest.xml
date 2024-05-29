@@ -47,12 +47,7 @@
         <activity
             android:name=".LoginActivity"
             android:exported="false" />
-        <activity
-            android:name=".FormCategoryActivity"
-            android:exported="false" />
-        <activity
-            android:name=".CategoryActivity"
-            android:exported="false" />
+
         <activity
             android:name=".DetailProductActivity"
             android:exported="true" />

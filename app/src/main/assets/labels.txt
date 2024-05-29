@@ -1,0 +1,11 @@
+0 Algodón
+1 Crema de Afeitar
+2 Producto de Aseo
+3 Jabón
+4 Jabón Líquido
+5 Papas
+6 Perfume
+7 Salsa
+8 Shampoo
+9 Talco
+10 Termo
